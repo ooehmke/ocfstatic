@@ -192,7 +192,14 @@ export default {
         role: ["Online People"],
         face: "https://bulma.io/images/placeholders/1280x960.png",
         icon: "https://bulma.io/images/placeholders/96x96.png"
-      }
+	},
+	[
+	handle: "ooehmke"
+	name: "Octavia Oehmke",
+	role: ["Tavi"],
+        face: "https://bulma.io/images/placeholders/1280x960.png",
+        icon: "https://bulma.io/images/placeholders/96x96.png"
+	},
     ];
   }
 };
